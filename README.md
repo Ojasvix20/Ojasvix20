@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [GPS Based safety app](https://github.com/Ojasvix20/Hackathon)
 
-- 🌱 I’m currently learning **ReactJS, NextJS, etc.**
+- 🌱 I’m currently learning **ReactJS, NextJS, Backend Development, etc.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ojasvix20/](https://github.com/Ojasvix20/)
 
