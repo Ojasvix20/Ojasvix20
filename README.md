@@ -15,7 +15,9 @@
 
 - 📄 Know about my experiences [https://ojasvix20.github.io/Portfolio](https://ojasvix20.github.io/Portfolio)
 
-- ⚡ Fun fact **I think**
+- ⚡ Fun fact **My first “Hello World” crashed. I’ve come a long way 🛠️.**
+
+**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
