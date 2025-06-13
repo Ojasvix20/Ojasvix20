@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **ReactJS, NextJS, Backend Development, etc.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ojasvix20/](https://github.com/Ojasvix20/)
+- 👨‍💻 All of my projects are available [here](https://github.com/Ojasvix20?tab=repositories)
 
 - 💬 Ask me about **Web Dev**
 
-- 📫 How to reach me **ojasvi.bakshi@gmail.com**
+- 📫 How to reach me **[ojasvi.bakshi@gmail.com](ojasvi.bakshi@gmail.com)**
 
 - 📄 Know about my experiences [https://ojasvix20.github.io/Portfolio](https://ojasvix20.github.io/Portfolio)
 
