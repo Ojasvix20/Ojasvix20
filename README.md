@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Web Dev**
 
-- 📫 How to reach me **[ojasvi.bakshi@gmail.com](ojasvi.bakshi@gmail.com)**
+- 📫 How to reach me **[ojasvi.bakshi@gmail.com](mailto:ojasvi.bakshi@gmail.com)**
 
 - 📄 Know about my experiences [https://ojasvix20.github.io/Portfolio](https://ojasvix20.github.io/Portfolio)
 
