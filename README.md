@@ -3,7 +3,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ojasvix20&label=Profile%20views&color=0e75b6&style=flat" alt="ojasvix20" /> </p>
 
-- 🔭 I’m currently working on [GPS Based safety app](https://github.com/Ojasvix20/Hackathon)
+- 🔭 I’m currently working on [Various Web Dev Projects](https://github.com/Ojasvix20/Hackathon)
 
 - 🌱 I’m currently learning **ReactJS, NextJS, Backend Development, etc.**
 
