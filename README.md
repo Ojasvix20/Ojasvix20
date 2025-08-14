@@ -26,7 +26,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ojasvix20&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="margin: 10px;" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=Ojasvix20&theme=highcontrast&theme=highcontrast " alt="GitHub Streak Stats" style="margin: 10px;" />
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ojasvix20&" alt="ojasvix20" /></p>
 </div>
 
 <h3 align="center">Connect with me:</h3>
