@@ -27,7 +27,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ojasvix20&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="margin: 10px;" />
   <br/>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ojasvix20&theme=dark" alt="ojasvix20" /></p>
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Ojasvix20)](https://git.io/streak-stats)
+  <p><img align="center" src="https://streak-stats.demolab.com/?user=Ojasvix20" alt="ojasvix20" /></p>
 </div>
 
 <h3 align="center">Connect with me:</h3>
