@@ -39,3 +39,8 @@
 <a href="https://www.leetcode.com/ojasvibakshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ojasvibakshi" height="30" width="40" /></a>
 </p>
 
+## 📊 My Codolio Profile
+
+[![Codolio Card](https://codolio.com/profile/OjasviBakshi/card)](https://codolio.com/profile/OjasviBakshi)
+
+
