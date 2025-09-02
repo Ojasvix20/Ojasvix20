@@ -1,4 +1,4 @@
-<img width="450" height="451" alt="image" src="https://github.com/user-attachments/assets/dab41332-faf8-415b-bdbb-1e69feb958f7" /><h1 align="center">Hi 👋, I'm Ojasvi Bakshi</h1>
+<h1 align="center">Hi 👋, I'm Ojasvi Bakshi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ojasvix20&label=Profile%20views&color=0e75b6&style=flat" alt="ojasvix20" /> </p>
@@ -35,7 +35,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/bakshiojasvi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/X_logo_2023_original.svg/450px-X_logo_2023_original.svg.png?20230728155658" alt="X" height="30" width="40" /></a>
+<a href="https://twitter.com/bakshiojasvi" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=fJp7hepMryiw&format=png" alt="X" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ojasvibakshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://kaggle.com/ojasvibakshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" /></a>
 <a href="https://instagram.com/ojasvi.bakshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
