@@ -35,15 +35,15 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/bakshiojasvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="bakshiojasvi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ojasvibakshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ojasvibakshi" height="30" width="40" /></a>
-<a href="https://kaggle.com/ojasvibakshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ojasvibakshi" height="30" width="40" /></a>
-<a href="https://instagram.com/ojasvi.bakshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ojasvi.bakshi" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ojasvi_bakshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ojasvi_bakshi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ojasvibakshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ojasvibakshi" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/OjasviBakshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/codeforces.svg" alt="ojasvibakshi" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/ojasvib07f0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ojasvibakshi" height="30" width="40" /></a>
-<a href="https://discord.com/users/your_user_id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/discord.svg" alt="ojasvibakshi" height="30" width="40" /></a>
+<a href="https://twitter.com/bakshiojasvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="X" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ojasvibakshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://kaggle.com/ojasvibakshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" /></a>
+<a href="https://instagram.com/ojasvi.bakshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ojasvi_bakshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ojasvibakshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/OjasviBakshi" target="blank"><img align="center" src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" alt="codeforces" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/ojasvib07f0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gfg" height="30" width="40" /></a>
+<a href="https://discord.com/users/your_user_id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
 </p>
 
 
