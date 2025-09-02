@@ -42,7 +42,7 @@
 <a href="https://www.hackerrank.com/ojasvi_bakshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ojasvi_bakshi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ojasvibakshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ojasvibakshi" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/OjasviBakshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/codeforces.svg" alt="ojasvibakshi" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/ojasvib07f0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/geeks-for-geeks.svg" alt="ojasvibakshi" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/ojasvib07f0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ojasvibakshi" height="30" width="40" /></a>
 <a href="https://discord.com/users/your_user_id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/discord.svg" alt="ojasvibakshi" height="30" width="40" /></a>
 </p>
 
