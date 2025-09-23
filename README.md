@@ -29,7 +29,7 @@
 
   <br><br> <!-- adds vertical gap -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ojasvix20&theme=dark&" alt="ojasvix20" /></p>
+![Ojasvi's GitHub stats](https://streak-stats.demolab.com/?user=ojasvix20&theme=dark)
 </div>
 
 
