@@ -25,7 +25,7 @@
 
 <div align="center">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ojasvix20&show_icons=true&locale=en&layout=compact&count_private=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ojasvix20&show_icons=true&locale=en&layout=compact&" alt="Top Languages" />
 
   <br><br> <!-- adds vertical gap -->
 
