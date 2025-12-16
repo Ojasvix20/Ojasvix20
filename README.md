@@ -28,7 +28,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ojasvix20&show_icons=true&locale=en&layout=compact&" alt="Top Languages" />
 
   <br><br> <!-- adds vertical gap -->
-![Ojasvi's GitHub stats](https://streak-stats.demolab.com?user=Ojasvix20&theme=dark)
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ojasvix20&theme=dark" />
 </p>
