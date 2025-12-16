@@ -49,7 +49,4 @@
 [![Pixel Art Wallpaper Desktop Gif](https://github.com/user-attachments/assets/68b05b87-a235-4916-82e3-b3d8bfa59896)
 ]()
 
-
-![GitHub Snake Dark](https://github.com/ojasvibakshi/ojasvibakshi/raw/output/github-contribution-grid-snake-dark.svg)
-
-
+https://raw.githubusercontent.com/Ojasvix20/Ojasvix20/output/github-contribution-grid-snake-dark.svg
