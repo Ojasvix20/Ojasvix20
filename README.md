@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **[ojasvi.bakshi@gmail.com](mailto:ojasvi.bakshi@gmail.com)**
 
-- 📄 Know about my experiences [https://ojasvix20.github.io/Portfolio](https://ojasvix20.github.io/Portfolio)
+- 📄 Know about my experiences [https://ojasvix20.github.io/Portfolio](https://ojasvibakshi-portfolio.vercel.app/)
 
 - ⚡ Fun fact **My first “Hello World” crashed. I’ve come a long way 🛠️.**
 
