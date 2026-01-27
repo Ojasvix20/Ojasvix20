@@ -6,7 +6,7 @@
 - 🔭 I’m currently building my skills in backend development.
   
 
-- 🌱 I’m currently learning **ReactJS, NextJS, Backend Development, etc.**
+- 🌱 I’m currently learning **Backend Development**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/Ojasvix20?tab=repositories)
 
@@ -32,6 +32,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ojasvix20&theme=dark" />
 </p>
+
 
 
 </div>
